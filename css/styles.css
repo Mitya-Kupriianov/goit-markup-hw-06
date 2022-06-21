@@ -575,7 +575,7 @@ img {
     /* --card-gap: 12px; */
 }
 
-.form-btn {
+.footer-btn {
     display: flex;
     align-items: center;
     justify-content: space-around;
